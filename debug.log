@@ -1,0 +1,5 @@
+[0220/222955.760:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0220/223802.884:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0220/223852.863:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0220/224159.398:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0221/121727.104:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
